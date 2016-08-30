@@ -1,0 +1,14 @@
+PODS:
+  - JSPatch (1.1):
+    - JSPatch/Core (= 1.1)
+  - JSPatch/Core (1.1)
+
+DEPENDENCIES:
+  - JSPatch
+
+SPEC CHECKSUMS:
+  JSPatch: ade285ad1d8f06146ed6054a39cef87509453299
+
+PODFILE CHECKSUM: 6585d3196c0e1775827cb9c705a05ea57bf880fc
+
+COCOAPODS: 1.0.1
